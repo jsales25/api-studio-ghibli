@@ -21,7 +21,7 @@ export const FilmList = () => {
       <h1>The 10 best Studio Ghibli movies</h1>
       <div className={styles["films-grid"]}>
         {films.map((film) => (
-          <Link key={film.id} to={`/films/${film.id}`}>
+          <Link key={film.id} to={`films/${film.id}`}>
             <div className={styles["film-card"]}>
               <img src={film.image} alt={film.title} />
               <h2>{film.title}</h2>
