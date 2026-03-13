@@ -49,4 +49,4 @@ No diretório do projeto, você pode executar:
     Inicia um servidor local para visualizar a versão de produção da sua aplicação que foi gerada com `npm run build`.
 
 ---
-Feito com ❤️ por [Seu Nome](https://github.com/jsales25).
+Feito com ❤️ por [Julia Sales](https://github.com/jsales25).
