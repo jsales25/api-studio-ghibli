@@ -2,6 +2,15 @@
 
 Este projeto é uma aplicação web desenvolvida com React que consome a API do Studio Ghibli para exibir informações sobre seus filmes. Os usuários podem navegar por uma lista de filmes e ver detalhes sobre cada um deles.
 
+## 📷 Screenshot
+
+![Design do projeto](./src/design/tablet-design.png)
+
+## 🔗 Links
+
+- Solução no Repositório: [Acesse o repositório aqui](https://github.com/jsales25/api-studio-ghibli.git)
+- Live Site: [Acesse o site aqui](https://jsales25.github.io/api-studio-ghibli/)
+
 ## ✨ Tecnologias Utilizadas
 
 - **[React](https://react.dev/)** - Biblioteca para construir interfaces de usuário.
@@ -49,4 +58,16 @@ No diretório do projeto, você pode executar:
     Inicia um servidor local para visualizar a versão de produção da sua aplicação que foi gerada com `npm run build`.
 
 ---
-Feito com ❤️ por [Julia Sales](https://github.com/jsales25).
+## 👩‍💻 Autor
+
+**Julia Sales**
+
+- **GitHub:** [Acesse o GitHub da autora aqui](https://github.com/jsales25)
+- **Frontend Mentor:** [Acesse o Frontend Mentor da autora aqui](https://www.frontendmentor.io/profile/jsales25)
+- **LinkedIn:** [Acesse o LinkedIn da autora aqui](https://www.linkedin.com/in/julia-sales-developer/)
+
+---
+
+<div align="center">
+  Feito com ❤️ por Julia Sales
+</div>
